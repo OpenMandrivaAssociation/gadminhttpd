@@ -1,6 +1,6 @@
 Summary:	GADMINHTTPD -- GAdminHTTPD is an easy to use GTK+ frontend for the Apache httpd webserver.
 Name:		gadminhttpd
-Version:	0.0.4
+Version:	0.0.5
 Release:	%mkrel 1
 License:	GPL
 Group:		System/Configuration/Networking
