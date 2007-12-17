@@ -10,7 +10,6 @@ BuildRequires:	gtk+2-devel
 BuildRequires:	ImageMagick
 Requires:	apache	
 Requires:	usermode-consoleonly
-Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
 
 %description
 GAdminHTTPD is an easy to use GTK+ frontend for the Apache httpd webserver.
