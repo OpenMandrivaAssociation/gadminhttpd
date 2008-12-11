@@ -7,7 +7,7 @@ Group:		System/Configuration/Networking
 URL:		http://www.gadmintools.org/
 Source0:	http://mange.dynalias.org/linux/gadminhttpd/%{name}-%{version}.tar.bz2
 BuildRequires:	gtk+2-devel
-BuildRequires:	ImageMagick
+BuildRequires:	imagemagick
 Requires:	apache	
 Requires:	usermode-consoleonly
 Buildroot:	%{_tmppath}/%{name}-%{version}-%{release}-buildroot
