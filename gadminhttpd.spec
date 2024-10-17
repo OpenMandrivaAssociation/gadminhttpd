@@ -4,7 +4,7 @@ Version:	0.0.5
 Release:	%mkrel 6
 License:	GPLv2+
 Group:		System/Configuration/Networking
-URL:		http://www.gadmintools.org/
+URL:		https://www.gadmintools.org/
 Source0:	http://mange.dynalias.org/linux/gadminhttpd/%{name}-%{version}.tar.bz2
 BuildRequires:	gtk+2-devel
 BuildRequires:	imagemagick
